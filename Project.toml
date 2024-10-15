@@ -1,0 +1,16 @@
+name = "HW05_4451"
+uuid = "ee8092ba-2723-4455-bfb6-4c2aa9503267"
+authors = ["kjl-macbook <keith.ja.lee@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Asap = "763a8c06-ba23-41fc-b385-b3b57b52403a"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+LatinHypercubeSampling = "a5e1c1ea-c99a-51d3-a14d-a9a37257b02d"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Metaheuristics = "bcdb8e00-2c21-11e9-3065-2b553b22f898"
+Nonconvex = "01bcebdf-4d21-426d-b5c4-6132c1619978"
+NonconvexNLopt = "b43a31b8-ff9b-442d-8e31-c163daa8ab75"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
