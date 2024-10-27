@@ -109,7 +109,7 @@ ax = Axis3(
     zlabel = "J3"
 )
 
-scatter!(j1s, j2s. j3s, color = :green)
+scatter!(j1s, j2s, j3s, color = :green)
 
 display(fig)
 
